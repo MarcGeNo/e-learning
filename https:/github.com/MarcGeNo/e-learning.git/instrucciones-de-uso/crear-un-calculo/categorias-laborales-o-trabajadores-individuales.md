@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 metaLinks:
   alternates:
     - >-
@@ -80,3 +82,18 @@ Para mantener la trazabilidad de cada empleado puede utilizarse el campo “Cate
 
 </details>
 
+<details>
+
+<summary>Área de trabajo</summary>
+
+La columna "Área de trabajo" és una columna destinada solamente a facilitar la clasificación e identificación de los trabajadores en la herramienta.
+
+El contenido de esta columna no tiene ningún impacto en los cálculos de la herramienta, por lo que puede escoger el área de trabajo que mejor se adapte a sus necesidades.
+
+{% hint style="info" %}
+[Asegúrese de que el sector del Área de trabajo seleccionada coincide con el sector de la Instalación](#user-content-fn-1)[^1].
+{% endhint %}
+
+</details>
+
+[^1]: 

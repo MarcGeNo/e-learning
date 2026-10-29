@@ -1,17 +1,19 @@
 ---
-description: Guidance and tips for the use of the IDH Salary Matrix
 cover: .gitbook/assets/elearning-banner.jpg
 coverY: 0
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/qcqJAUZBOCLls7nRFHi9/
 ---
 
-# 📔 IDH Salary Matrix E-Learning Site
+# 📔 Sitio de autoaprendizaje de la Matriz Salarial de IDH
 
-Welcome to the Salary Matrix e-learning site!&#x20;
+¡Bienvenido al sitio de autoaprendizaje de la Matriz Salarial de IDH!&#x20;
 
-Here you can find the latest guidance and answers to your questions.
+Aquí encontrará las recomendaciones actualizadas y respuestas a sus preguntas.
 
-Receive key updates, tool improvements, new guides from the self-learning site, and upcoming information sessions by email: [**\[Subscribe to the newsletter\]**](https://mailchi.mp/idhtrade/salary-matrix-newsletter)
+Reciba en su correo actualizaciones clave, mejoras de la herramienta, nuevas guías del sitio de autoaprendizaje y próximas sesiones informativas [\[Suscríbase al boletín\]](https://mailchi.mp/idhtrade/salary-matrix-newsletter)
 
 {% hint style="info" %}
-You can also explore this site in French or Spanish by changing the language in the top right corner.
+Puede acceder a este contenido en Francés o Inglés cambiando el idioma en la esquina superior derecha.
 {% endhint %}
