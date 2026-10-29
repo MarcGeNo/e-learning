@@ -19,6 +19,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 metaLinks:
   alternates:
     - https://app.gitbook.com/s/qcqJAUZBOCLls7nRFHi9/how-to-use-the-tool/faqs
@@ -93,6 +95,13 @@ IDH recomienda utilizar los valores salariales dignos estimados por metodología
 Tenga en cuenta que el IDH no calcula estimaciones de salario digno.
 
 Si no hay estimaciones disponibles para su región y año en la herramienta, póngase en contacto con las [metodologías de estimación de salario digno reconocidas por IDH](https://www.idhsustainabletrade.com/idh-living-wage-identifier/) para consultar si están interesadas en calcular la estimación.
+
+#### 2.3 ¿Qué estimación de salario digno debe seleccionarse para los empleados que trabajan de forma remota?
+
+Actualmente, no existe una norma internacional general que establezca cómo calcular un salario digno específicamente para los trabajadores remotos.\
+Las metodologías de la OIT y de Anker establecen que el salario digno depende de la ubicación y debe reflejar el contexto local; sin embargo, no prescriben una regla específica para los trabajadores remotos.
+
+Dado que las estimaciones de salario digno tienen en cuenta los impuestos locales, IDH sugiere utilizar la estimación correspondiente a la ubicación donde el trabajador está registrado a efectos fiscales.
 
 </details>
 
