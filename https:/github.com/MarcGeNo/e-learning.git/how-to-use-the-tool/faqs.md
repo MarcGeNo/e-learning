@@ -19,6 +19,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # FAQs
@@ -87,6 +89,14 @@ IDH recommends to use only living wage values estimated by methodologies recogni
 Note that IDH does not calculate living wages estimates.&#x20;
 
 If there are no estimates available for your region and year in the tool, please contact the [living wage estimate methodologies recognised by IDH](https://www.idhsustainabletrade.com/idh-living-wage-identifier/) to check if they are interested in calculating the estimate.
+
+**2.3 What living wage estimate shall be selected for employees that work remotely?**
+
+There is currently no general international standard establishing how to calculate a living wage specifically for remote workers.
+
+The ILO and Anker methodologies establish that the living wage is location-specific and must reflect the local context, but they do not prescribe a specific rule for remote workers.
+
+Considering that the living wages estimates take into account the local taxes, IDH suggests to use the estimate corresponding to the location where the worker is registered for tax purposes.&#x20;
 
 </details>
 
