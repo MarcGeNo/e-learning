@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 metaLinks:
   alternates:
     - >-
@@ -83,3 +85,16 @@ Veillez à ne pas utiliser de données personnelles comme identifiant !
 
 </details>
 
+<details>
+
+<summary>Zone de travail</summary>
+
+La colonne « Zone de travail » est destinée uniquement à faciliter le classement et l'identification des travailleurs dans l'outil.
+
+Le contenu de cette colonne n'a aucune incidence sur les calculs effectués par l'outil ; vous pouvez donc choisir, parmi les zones proposées, celle qui correspond le mieux à vos besoins.
+
+{% hint style="info" %}
+Veillez à ce que le secteur de la Zone de travail sélectionnée corresponde au secteur de l'Installation.
+{% endhint %}
+
+</details>
