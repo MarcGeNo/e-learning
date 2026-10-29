@@ -19,6 +19,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 metaLinks:
   alternates:
     - >-
@@ -93,6 +95,14 @@ IDH recommande de n'utiliser que des salaires vitaux estimés selon des méthodo
 Veuillez noter que l'IDH ne calcule pas d'estimations du salaire vital.
 
 Si l'outil ne propose aucune estimation pour votre région et l'année concernée, veuillez contacter les [méthodologies d'estimation du salaire vital reconnues par l'IDH](https://www.idhsustainabletrade.com/idh-living-wage-identifier/) afin de vérifier leur disponibilité pour effectuer l'estimation.
+
+#### **2.3 Quelle estimation du salaire vital convient-il de retenir pour les employés en télétravail ?**
+
+Il n’existe actuellement aucune norme internationale générale définissant la manière de calculer un salaire vital spécifiquement pour les personnes en télétravail.
+
+Les méthodologies de l’OIT et d’Anker établissent que le salaire vital dépend du lieu de résidence et doit refléter le contexte local ; toutefois, elles ne prévoient pas de règle spécifique pour les travailleurs à distance.
+
+Étant donné que les estimations du salaire vital prennent en compte les impôts locaux, l’IDH suggère d’utiliser l’estimation correspondant au lieu où le travailleur est enregistré à des fins fiscales.
 
 </details>
 
