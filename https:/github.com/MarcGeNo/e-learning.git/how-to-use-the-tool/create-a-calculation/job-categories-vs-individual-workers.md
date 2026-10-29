@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Job categories vs individual workers
@@ -72,6 +74,20 @@ To maintain the tracking of each employee, you can use the “Job Category” fi
 
 {% hint style="info" %}
 Make sure not to use any personal data as identifier!
+{% endhint %}
+
+</details>
+
+<details>
+
+<summary><strong>Work area</strong></summary>
+
+The "Work Area" column is intended solely to facilitate the classification and identification of workers within the tool.
+
+The content of this column has no impact on the tool's calculations; therefore, you may choose the work area that best suits your needs from the provided list.
+
+{% hint style="info" %}
+Ensure that the sector of the selected Work Area matches the sector of the Facility.
 {% endhint %}
 
 </details>
